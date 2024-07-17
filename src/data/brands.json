@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Lamborghini",
+        "image": "/brands/Lamborghini.png"
+    },
+    {
+        "name": "Ferrari",
+        "image": "/brands/Ferrari.png"
+    },
+    {
+        "name": "Mercedes-Benz",
+        "image": "/brands/Mercedes-Benz.png"
+    },
+    {
+        "name": "Cadillac",
+        "image": "/brands/Cadillac.png"
+    },
+    {
+        "name": "Nissan",
+        "image": "/brands/Nissan.png"
+    },
+    {
+        "name": "BMW",
+        "image": "/brands/BMW.png"
+    },
+    {
+        "name": "Audi",
+        "image": "/brands/Audi.png"
+    },
+    {
+        "name": "Porsche",
+        "image": "/brands/Porsche.png"
+    },
+    {
+        "name": "Bentley",
+        "image": "/brands/Bentley.png"
+    },
+    {
+        "name": "Chevrolet",
+        "image": "/brands/Chevrolet.png"
+    },
+    {
+        "name": "Dodge",
+        "image": "/brands/Dodge.png"
+    },
+    {
+        "name": "Ford",
+        "image": "/brands/Ford.png"
+    },
+    {
+        "name": "Range Rover",
+        "image": "/brands/Range Rover.png"
+    },
+    {
+        "name": "Aston",
+        "image": "/brands/Aston Martin.png"
+    }
+]

@@ -10,7 +10,7 @@
     --card-foreground: 0 0% 3.9%;
     --popover: 0 0% 100%;
     --popover-foreground: 0 0% 3.9%;
-    --primary: 0 0% 9%;
+    --primary: 9 96% 49%;
     --primary-foreground: 0 0% 98%;
     --secondary: 0 0% 96.1%;
     --secondary-foreground: 0 0% 9%;
@@ -63,7 +63,42 @@
   * {
     @apply border-border;
   }
+
   body {
     @apply bg-background text-foreground;
   }
+}
+
+.container {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+@media (min-width: 1298px) {
+  .container.short {
+    max-width: 1298px;
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
+@media (min-width: 1400px) {
+  .container {
+    max-width: 1400px;
+  }
+}
+
+.progress-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 5px;
+  background: rgb(173 28 4);
+  transform-origin: 0%;
+}
+
+@font-face {
+  font-family: HubotSans;
+  src: url('../../public/fonts/HubotSans-Regular.ttf');
 }

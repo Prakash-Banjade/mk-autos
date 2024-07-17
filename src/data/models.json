@@ -1,0 +1,1370 @@
+[
+    {
+        "name": "Lamborghini Huracan Tecnica",
+        "slug": "lamborghini_hurcan_tecnica",
+        "brandName": "Lamborghini",
+        "imageUrl": "/models/lamborghini-huracan-tecnica-01.webp",
+        "year": 2024,
+        "color": "Yellow",
+        "power": "640 hp",
+        "seats": 2,
+        "category": "sportive",
+        "model": "Huracan Tecnica",
+        "pricePerDay": "4000 AED",
+        "vat": 5,
+        "otherImages": [
+            "/models/lamborghini-huracan-tecnica-01.webp",
+            "/models/lamborghini-huracan-tecnica-01.webp",
+            "/models/lamborghini-huracan-tecnica-01.webp"
+        ]
+    },
+    {
+        "name": "Mercedes-Benz GLE 53",
+        "slug": "mercedes_benz_gle_52",
+        "brandName": "Mercedes-Benz",
+        "imageUrl": "/models/mercedes-benz-gle-53-grey-2024-1.webp",
+        "year": 2024,
+        "color": "Grey",
+        "power": "429 hp",
+        "seats": 5,
+        "category": "suv",
+        "model": "GLE 53",
+        "pricePerDay": "2000 AED",
+        "vat": 5,
+        "otherImages": [
+            "/models/mercedes-benz-gle-53-grey-2024-1.webp",
+            "/models/mercedes-benz-gle-53-grey-2024-1.webp",
+            "/models/mercedes-benz-gle-53-grey-2024-1.webp"
+        ]
+    },
+    {
+        "name": "Mercedes-Benz G63",
+        "slug": "mercedes_benz_g63",
+        "brandName": "Mercedes-Benz",
+        "imageUrl": "/models/mercedes-benz-g63-01.webp",
+        "year": 2022,
+        "color": "Black",
+        "power": "585 hp",
+        "seats": 5,
+        "category": "suv",
+        "model": "G63",
+        "pricePerDay": "2500 AED",
+        "vat": 5,
+        "otherImages": [
+            "/models/mercedes-benz-g63-01.webp",
+            "/models/mercedes-benz-g63-01.webp",
+            "/models/mercedes-benz-g63-01.webp"
+        ]
+    },
+    {
+        "name": "Chevrolet Corvette Stingray V8",
+        "slug": "chevrolet_corvette_stingray_v8",
+        "brandName": "Chevrolet",
+        "imageUrl": "/models/chevrolet-corvette-stingray-v8-01.webp",
+        "year": 2023,
+        "color": "Green",
+        "power": "495 hp",
+        "seats": 2,
+        "category": "sportive",
+        "model": "Corvette Stingray V8",
+        "pricePerDay": "3000 AED",
+        "vat": 5,
+        "otherImages": [
+            "/models/chevrolet-corvette-stingray-v8-01.webp",
+            "/models/chevrolet-corvette-stingray-v8-01.webp",
+            "/models/chevrolet-corvette-stingray-v8-01.webp"
+        ]
+    },
+    {
+        "name": "Cadillac Escalade",
+        "slug": "cadillac-escalade",
+        "brandName": "Cadillac",
+        "imageUrl": "/models/cadillac-escalade-01.webp",
+        "year": 2024,
+        "color": "Black",
+        "power": "420 hp",
+        "seats": 7,
+        "category": "suv",
+        "model": "Escalade",
+        "pricePerDay": "3500 AED",
+        "vat": 5,
+        "otherImages": [
+            "/models/cadillac-escalade-01.webp",
+            "/models/cadillac-escalade-01.webp",
+            "/models/cadillac-escalade-01.webp"
+        ]
+    },
+    {
+        "name": "Range Rover Velar",
+        "slug": "range_rover_velar",
+        "brandName": "Range Rover",
+        "imageUrl": "/models/range-rover-velar-01.webp",
+        "year": 2024,
+        "color": "Black",
+        "power": "404 hp",
+        "seats": 5,
+        "category": "suv",
+        "model": "Velar",
+        "pricePerDay": "2800 AED",
+        "vat": 5,
+        "otherImages": [
+            "/models/range-rover-velar-01.webp",
+            "/models/range-rover-velar-01.webp",
+            "/models/range-rover-velar-01.webp"
+        ]
+    },
+    {
+        "name": "Lamborghini Huracan Tecnica",
+        "slug": "lamborghini_hurcan_tecnica",
+        "brandName": "Lamborghini",
+        "imageUrl": "/models/lamborghini-huracan-tecnica-01.webp",
+        "year": 2024,
+        "color": "Yellow",
+        "power": "640 hp",
+        "seats": 2,
+        "category": "sportive",
+        "model": "Huracan Tecnica",
+        "pricePerDay": "4000 AED",
+        "vat": 5,
+        "otherImages": [
+            "/models/lamborghini-huracan-tecnica-01.webp",
+            "/models/lamborghini-huracan-tecnica-01.webp",
+            "/models/lamborghini-huracan-tecnica-01.webp"
+        ]
+    },
+    {
+        "name": "Mercedes-Benz GLE 53",
+        "slug": "mercedes_benz_gle_52",
+        "brandName": "Mercedes-Benz",
+        "imageUrl": "/models/mercedes-benz-gle-53-grey-2024-1.webp",
+        "year": 2024,
+        "color": "Grey",
+        "power": "429 hp",
+        "seats": 5,
+        "category": "suv",
+        "model": "GLE 53",
+        "pricePerDay": "2000 AED",
+        "vat": 5,
+        "otherImages": [
+            "/models/mercedes-benz-gle-53-grey-2024-1.webp",
+            "/models/mercedes-benz-gle-53-grey-2024-1.webp",
+            "/models/mercedes-benz-gle-53-grey-2024-1.webp"
+        ]
+    },
+    {
+        "name": "Mercedes-Benz G63",
+        "slug": "mercedes_benz_g63",
+        "brandName": "Mercedes-Benz",
+        "imageUrl": "/models/mercedes-benz-g63-01.webp",
+        "year": 2022,
+        "color": "Black",
+        "power": "585 hp",
+        "seats": 5,
+        "category": "suv",
+        "model": "G63",
+        "pricePerDay": "2500 AED",
+        "vat": 5,
+        "otherImages": [
+            "/models/mercedes-benz-g63-01.webp",
+            "/models/mercedes-benz-g63-01.webp",
+            "/models/mercedes-benz-g63-01.webp"
+        ]
+    },
+    {
+        "name": "Chevrolet Corvette Stingray V8",
+        "slug": "chevrolet_corvette_stingray_v8",
+        "brandName": "Chevrolet",
+        "imageUrl": "/models/chevrolet-corvette-stingray-v8-01.webp",
+        "year": 2023,
+        "color": "Green",
+        "power": "495 hp",
+        "seats": 2,
+        "category": "sportive",
+        "model": "Corvette Stingray V8",
+        "pricePerDay": "3000 AED",
+        "vat": 5,
+        "otherImages": [
+            "/models/chevrolet-corvette-stingray-v8-01.webp",
+            "/models/chevrolet-corvette-stingray-v8-01.webp",
+            "/models/chevrolet-corvette-stingray-v8-01.webp"
+        ]
+    },
+    {
+        "name": "Cadillac Escalade",
+        "slug": "cadillac-escalade",
+        "brandName": "Cadillac",
+        "imageUrl": "/models/cadillac-escalade-01.webp",
+        "year": 2024,
+        "color": "Black",
+        "power": "420 hp",
+        "seats": 7,
+        "category": "suv",
+        "model": "Escalade",
+        "pricePerDay": "3500 AED",
+        "vat": 5,
+        "otherImages": [
+            "/models/cadillac-escalade-01.webp",
+            "/models/cadillac-escalade-01.webp",
+            "/models/cadillac-escalade-01.webp"
+        ]
+    },
+    {
+        "name": "Range Rover Velar",
+        "slug": "range_rover_velar",
+        "brandName": "Range Rover",
+        "imageUrl": "/models/range-rover-velar-01.webp",
+        "year": 2024,
+        "color": "Black",
+        "power": "404 hp",
+        "seats": 5,
+        "category": "suv",
+        "model": "Velar",
+        "pricePerDay": "2800 AED",
+        "vat": 5,
+        "otherImages": [
+            "/models/range-rover-velar-01.webp",
+            "/models/range-rover-velar-01.webp",
+            "/models/range-rover-velar-01.webp"
+        ]
+    },
+    {
+        "name": "Lamborghini Huracan Tecnica",
+        "slug": "lamborghini_hurcan_tecnica",
+        "brandName": "Lamborghini",
+        "imageUrl": "/models/lamborghini-huracan-tecnica-01.webp",
+        "year": 2024,
+        "color": "Yellow",
+        "power": "640 hp",
+        "seats": 2,
+        "category": "sportive",
+        "model": "Huracan Tecnica",
+        "pricePerDay": "4000 AED",
+        "vat": 5,
+        "otherImages": [
+            "/models/lamborghini-huracan-tecnica-01.webp",
+            "/models/lamborghini-huracan-tecnica-01.webp",
+            "/models/lamborghini-huracan-tecnica-01.webp"
+        ]
+    },
+    {
+        "name": "Mercedes-Benz GLE 53",
+        "slug": "mercedes_benz_gle_52",
+        "brandName": "Mercedes-Benz",
+        "imageUrl": "/models/mercedes-benz-gle-53-grey-2024-1.webp",
+        "year": 2024,
+        "color": "Grey",
+        "power": "429 hp",
+        "seats": 5,
+        "category": "suv",
+        "model": "GLE 53",
+        "pricePerDay": "2000 AED",
+        "vat": 5,
+        "otherImages": [
+            "/models/mercedes-benz-gle-53-grey-2024-1.webp",
+            "/models/mercedes-benz-gle-53-grey-2024-1.webp",
+            "/models/mercedes-benz-gle-53-grey-2024-1.webp"
+        ]
+    },
+    {
+        "name": "Mercedes-Benz G63",
+        "slug": "mercedes_benz_g63",
+        "brandName": "Mercedes-Benz",
+        "imageUrl": "/models/mercedes-benz-g63-01.webp",
+        "year": 2022,
+        "color": "Black",
+        "power": "585 hp",
+        "seats": 5,
+        "category": "suv",
+        "model": "G63",
+        "pricePerDay": "2500 AED",
+        "vat": 5,
+        "otherImages": [
+            "/models/mercedes-benz-g63-01.webp",
+            "/models/mercedes-benz-g63-01.webp",
+            "/models/mercedes-benz-g63-01.webp"
+        ]
+    },
+    {
+        "name": "Chevrolet Corvette Stingray V8",
+        "slug": "chevrolet_corvette_stingray_v8",
+        "brandName": "Chevrolet",
+        "imageUrl": "/models/chevrolet-corvette-stingray-v8-01.webp",
+        "year": 2023,
+        "color": "Green",
+        "power": "495 hp",
+        "seats": 2,
+        "category": "sportive",
+        "model": "Corvette Stingray V8",
+        "pricePerDay": "3000 AED",
+        "vat": 5,
+        "otherImages": [
+            "/models/chevrolet-corvette-stingray-v8-01.webp",
+            "/models/chevrolet-corvette-stingray-v8-01.webp",
+            "/models/chevrolet-corvette-stingray-v8-01.webp"
+        ]
+    },
+    {
+        "name": "Cadillac Escalade",
+        "slug": "cadillac-escalade",
+        "brandName": "Cadillac",
+        "imageUrl": "/models/cadillac-escalade-01.webp",
+        "year": 2024,
+        "color": "Black",
+        "power": "420 hp",
+        "seats": 7,
+        "category": "suv",
+        "model": "Escalade",
+        "pricePerDay": "3500 AED",
+        "vat": 5,
+        "otherImages": [
+            "/models/cadillac-escalade-01.webp",
+            "/models/cadillac-escalade-01.webp",
+            "/models/cadillac-escalade-01.webp"
+        ]
+    },
+    {
+        "name": "Range Rover Velar",
+        "slug": "range_rover_velar",
+        "brandName": "Range Rover",
+        "imageUrl": "/models/range-rover-velar-01.webp",
+        "year": 2024,
+        "color": "Black",
+        "power": "404 hp",
+        "seats": 5,
+        "category": "suv",
+        "model": "Velar",
+        "pricePerDay": "2800 AED",
+        "vat": 5,
+        "otherImages": [
+            "/models/range-rover-velar-01.webp",
+            "/models/range-rover-velar-01.webp",
+            "/models/range-rover-velar-01.webp"
+        ]
+    },
+    {
+        "name": "Lamborghini Huracan Tecnica",
+        "slug": "lamborghini_hurcan_tecnica",
+        "brandName": "Lamborghini",
+        "imageUrl": "/models/lamborghini-huracan-tecnica-01.webp",
+        "year": 2024,
+        "color": "Yellow",
+        "power": "640 hp",
+        "seats": 2,
+        "category": "sportive",
+        "model": "Huracan Tecnica",
+        "pricePerDay": "4000 AED",
+        "vat": 5,
+        "otherImages": [
+            "/models/lamborghini-huracan-tecnica-01.webp",
+            "/models/lamborghini-huracan-tecnica-01.webp",
+            "/models/lamborghini-huracan-tecnica-01.webp"
+        ]
+    },
+    {
+        "name": "Mercedes-Benz GLE 53",
+        "slug": "mercedes_benz_gle_52",
+        "brandName": "Mercedes-Benz",
+        "imageUrl": "/models/mercedes-benz-gle-53-grey-2024-1.webp",
+        "year": 2024,
+        "color": "Grey",
+        "power": "429 hp",
+        "seats": 5,
+        "category": "suv",
+        "model": "GLE 53",
+        "pricePerDay": "2000 AED",
+        "vat": 5,
+        "otherImages": [
+            "/models/mercedes-benz-gle-53-grey-2024-1.webp",
+            "/models/mercedes-benz-gle-53-grey-2024-1.webp",
+            "/models/mercedes-benz-gle-53-grey-2024-1.webp"
+        ]
+    },
+    {
+        "name": "Mercedes-Benz G63",
+        "slug": "mercedes_benz_g63",
+        "brandName": "Mercedes-Benz",
+        "imageUrl": "/models/mercedes-benz-g63-01.webp",
+        "year": 2022,
+        "color": "Black",
+        "power": "585 hp",
+        "seats": 5,
+        "category": "suv",
+        "model": "G63",
+        "pricePerDay": "2500 AED",
+        "vat": 5,
+        "otherImages": [
+            "/models/mercedes-benz-g63-01.webp",
+            "/models/mercedes-benz-g63-01.webp",
+            "/models/mercedes-benz-g63-01.webp"
+        ]
+    },
+    {
+        "name": "Chevrolet Corvette Stingray V8",
+        "slug": "chevrolet_corvette_stingray_v8",
+        "brandName": "Chevrolet",
+        "imageUrl": "/models/chevrolet-corvette-stingray-v8-01.webp",
+        "year": 2023,
+        "color": "Green",
+        "power": "495 hp",
+        "seats": 2,
+        "category": "sportive",
+        "model": "Corvette Stingray V8",
+        "pricePerDay": "3000 AED",
+        "vat": 5,
+        "otherImages": [
+            "/models/chevrolet-corvette-stingray-v8-01.webp",
+            "/models/chevrolet-corvette-stingray-v8-01.webp",
+            "/models/chevrolet-corvette-stingray-v8-01.webp"
+        ]
+    },
+    {
+        "name": "Cadillac Escalade",
+        "slug": "cadillac-escalade",
+        "brandName": "Cadillac",
+        "imageUrl": "/models/cadillac-escalade-01.webp",
+        "year": 2024,
+        "color": "Black",
+        "power": "420 hp",
+        "seats": 7,
+        "category": "suv",
+        "model": "Escalade",
+        "pricePerDay": "3500 AED",
+        "vat": 5,
+        "otherImages": [
+            "/models/cadillac-escalade-01.webp",
+            "/models/cadillac-escalade-01.webp",
+            "/models/cadillac-escalade-01.webp"
+        ]
+    },
+    {
+        "name": "Range Rover Velar",
+        "slug": "range_rover_velar",
+        "brandName": "Range Rover",
+        "imageUrl": "/models/range-rover-velar-01.webp",
+        "year": 2024,
+        "color": "Black",
+        "power": "404 hp",
+        "seats": 5,
+        "category": "suv",
+        "model": "Velar",
+        "pricePerDay": "2800 AED",
+        "vat": 5,
+        "otherImages": [
+            "/models/range-rover-velar-01.webp",
+            "/models/range-rover-velar-01.webp",
+            "/models/range-rover-velar-01.webp"
+        ]
+    },
+    {
+        "name": "Lamborghini Huracan Tecnica",
+        "slug": "lamborghini_hurcan_tecnica",
+        "brandName": "Lamborghini",
+        "imageUrl": "/models/lamborghini-huracan-tecnica-01.webp",
+        "year": 2024,
+        "color": "Yellow",
+        "power": "640 hp",
+        "seats": 2,
+        "category": "sportive",
+        "model": "Huracan Tecnica",
+        "pricePerDay": "4000 AED",
+        "vat": 5,
+        "otherImages": [
+            "/models/lamborghini-huracan-tecnica-01.webp",
+            "/models/lamborghini-huracan-tecnica-01.webp",
+            "/models/lamborghini-huracan-tecnica-01.webp"
+        ]
+    },
+    {
+        "name": "Mercedes-Benz GLE 53",
+        "slug": "mercedes_benz_gle_52",
+        "brandName": "Mercedes-Benz",
+        "imageUrl": "/models/mercedes-benz-gle-53-grey-2024-1.webp",
+        "year": 2024,
+        "color": "Grey",
+        "power": "429 hp",
+        "seats": 5,
+        "category": "suv",
+        "model": "GLE 53",
+        "pricePerDay": "2000 AED",
+        "vat": 5,
+        "otherImages": [
+            "/models/mercedes-benz-gle-53-grey-2024-1.webp",
+            "/models/mercedes-benz-gle-53-grey-2024-1.webp",
+            "/models/mercedes-benz-gle-53-grey-2024-1.webp"
+        ]
+    },
+    {
+        "name": "Mercedes-Benz G63",
+        "slug": "mercedes_benz_g63",
+        "brandName": "Mercedes-Benz",
+        "imageUrl": "/models/mercedes-benz-g63-01.webp",
+        "year": 2022,
+        "color": "Black",
+        "power": "585 hp",
+        "seats": 5,
+        "category": "suv",
+        "model": "G63",
+        "pricePerDay": "2500 AED",
+        "vat": 5,
+        "otherImages": [
+            "/models/mercedes-benz-g63-01.webp",
+            "/models/mercedes-benz-g63-01.webp",
+            "/models/mercedes-benz-g63-01.webp"
+        ]
+    },
+    {
+        "name": "Chevrolet Corvette Stingray V8",
+        "slug": "chevrolet_corvette_stingray_v8",
+        "brandName": "Chevrolet",
+        "imageUrl": "/models/chevrolet-corvette-stingray-v8-01.webp",
+        "year": 2023,
+        "color": "Green",
+        "power": "495 hp",
+        "seats": 2,
+        "category": "sportive",
+        "model": "Corvette Stingray V8",
+        "pricePerDay": "3000 AED",
+        "vat": 5,
+        "otherImages": [
+            "/models/chevrolet-corvette-stingray-v8-01.webp",
+            "/models/chevrolet-corvette-stingray-v8-01.webp",
+            "/models/chevrolet-corvette-stingray-v8-01.webp"
+        ]
+    },
+    {
+        "name": "Cadillac Escalade",
+        "slug": "cadillac-escalade",
+        "brandName": "Cadillac",
+        "imageUrl": "/models/cadillac-escalade-01.webp",
+        "year": 2024,
+        "color": "Black",
+        "power": "420 hp",
+        "seats": 7,
+        "category": "suv",
+        "model": "Escalade",
+        "pricePerDay": "3500 AED",
+        "vat": 5,
+        "otherImages": [
+            "/models/cadillac-escalade-01.webp",
+            "/models/cadillac-escalade-01.webp",
+            "/models/cadillac-escalade-01.webp"
+        ]
+    },
+    {
+        "name": "Range Rover Velar",
+        "slug": "range_rover_velar",
+        "brandName": "Range Rover",
+        "imageUrl": "/models/range-rover-velar-01.webp",
+        "year": 2024,
+        "color": "Black",
+        "power": "404 hp",
+        "seats": 5,
+        "category": "suv",
+        "model": "Velar",
+        "pricePerDay": "2800 AED",
+        "vat": 5,
+        "otherImages": [
+            "/models/range-rover-velar-01.webp",
+            "/models/range-rover-velar-01.webp",
+            "/models/range-rover-velar-01.webp"
+        ]
+    },
+    {
+        "name": "Lamborghini Huracan Tecnica",
+        "slug": "lamborghini_hurcan_tecnica",
+        "brandName": "Lamborghini",
+        "imageUrl": "/models/lamborghini-huracan-tecnica-01.webp",
+        "year": 2024,
+        "color": "Yellow",
+        "power": "640 hp",
+        "seats": 2,
+        "category": "sportive",
+        "model": "Huracan Tecnica",
+        "pricePerDay": "4000 AED",
+        "vat": 5,
+        "otherImages": [
+            "/models/lamborghini-huracan-tecnica-01.webp",
+            "/models/lamborghini-huracan-tecnica-01.webp",
+            "/models/lamborghini-huracan-tecnica-01.webp"
+        ]
+    },
+    {
+        "name": "Mercedes-Benz GLE 53",
+        "slug": "mercedes_benz_gle_52",
+        "brandName": "Mercedes-Benz",
+        "imageUrl": "/models/mercedes-benz-gle-53-grey-2024-1.webp",
+        "year": 2024,
+        "color": "Grey",
+        "power": "429 hp",
+        "seats": 5,
+        "category": "suv",
+        "model": "GLE 53",
+        "pricePerDay": "2000 AED",
+        "vat": 5,
+        "otherImages": [
+            "/models/mercedes-benz-gle-53-grey-2024-1.webp",
+            "/models/mercedes-benz-gle-53-grey-2024-1.webp",
+            "/models/mercedes-benz-gle-53-grey-2024-1.webp"
+        ]
+    },
+    {
+        "name": "Mercedes-Benz G63",
+        "slug": "mercedes_benz_g63",
+        "brandName": "Mercedes-Benz",
+        "imageUrl": "/models/mercedes-benz-g63-01.webp",
+        "year": 2022,
+        "color": "Black",
+        "power": "585 hp",
+        "seats": 5,
+        "category": "suv",
+        "model": "G63",
+        "pricePerDay": "2500 AED",
+        "vat": 5,
+        "otherImages": [
+            "/models/mercedes-benz-g63-01.webp",
+            "/models/mercedes-benz-g63-01.webp",
+            "/models/mercedes-benz-g63-01.webp"
+        ]
+    },
+    {
+        "name": "Chevrolet Corvette Stingray V8",
+        "slug": "chevrolet_corvette_stingray_v8",
+        "brandName": "Chevrolet",
+        "imageUrl": "/models/chevrolet-corvette-stingray-v8-01.webp",
+        "year": 2023,
+        "color": "Green",
+        "power": "495 hp",
+        "seats": 2,
+        "category": "sportive",
+        "model": "Corvette Stingray V8",
+        "pricePerDay": "3000 AED",
+        "vat": 5,
+        "otherImages": [
+            "/models/chevrolet-corvette-stingray-v8-01.webp",
+            "/models/chevrolet-corvette-stingray-v8-01.webp",
+            "/models/chevrolet-corvette-stingray-v8-01.webp"
+        ]
+    },
+    {
+        "name": "Cadillac Escalade",
+        "slug": "cadillac-escalade",
+        "brandName": "Cadillac",
+        "imageUrl": "/models/cadillac-escalade-01.webp",
+        "year": 2024,
+        "color": "Black",
+        "power": "420 hp",
+        "seats": 7,
+        "category": "suv",
+        "model": "Escalade",
+        "pricePerDay": "3500 AED",
+        "vat": 5,
+        "otherImages": [
+            "/models/cadillac-escalade-01.webp",
+            "/models/cadillac-escalade-01.webp",
+            "/models/cadillac-escalade-01.webp"
+        ]
+    },
+    {
+        "name": "Range Rover Velar",
+        "slug": "range_rover_velar",
+        "brandName": "Range Rover",
+        "imageUrl": "/models/range-rover-velar-01.webp",
+        "year": 2024,
+        "color": "Black",
+        "power": "404 hp",
+        "seats": 5,
+        "category": "suv",
+        "model": "Velar",
+        "pricePerDay": "2800 AED",
+        "vat": 5,
+        "otherImages": [
+            "/models/range-rover-velar-01.webp",
+            "/models/range-rover-velar-01.webp",
+            "/models/range-rover-velar-01.webp"
+        ]
+    },
+    {
+        "name": "Lamborghini Huracan Tecnica",
+        "slug": "lamborghini_hurcan_tecnica",
+        "brandName": "Lamborghini",
+        "imageUrl": "/models/lamborghini-huracan-tecnica-01.webp",
+        "year": 2024,
+        "color": "Yellow",
+        "power": "640 hp",
+        "seats": 2,
+        "category": "sportive",
+        "model": "Huracan Tecnica",
+        "pricePerDay": "4000 AED",
+        "vat": 5,
+        "otherImages": [
+            "/models/lamborghini-huracan-tecnica-01.webp",
+            "/models/lamborghini-huracan-tecnica-01.webp",
+            "/models/lamborghini-huracan-tecnica-01.webp"
+        ]
+    },
+    {
+        "name": "Mercedes-Benz GLE 53",
+        "slug": "mercedes_benz_gle_52",
+        "brandName": "Mercedes-Benz",
+        "imageUrl": "/models/mercedes-benz-gle-53-grey-2024-1.webp",
+        "year": 2024,
+        "color": "Grey",
+        "power": "429 hp",
+        "seats": 5,
+        "category": "suv",
+        "model": "GLE 53",
+        "pricePerDay": "2000 AED",
+        "vat": 5,
+        "otherImages": [
+            "/models/mercedes-benz-gle-53-grey-2024-1.webp",
+            "/models/mercedes-benz-gle-53-grey-2024-1.webp",
+            "/models/mercedes-benz-gle-53-grey-2024-1.webp"
+        ]
+    },
+    {
+        "name": "Mercedes-Benz G63",
+        "slug": "mercedes_benz_g63",
+        "brandName": "Mercedes-Benz",
+        "imageUrl": "/models/mercedes-benz-g63-01.webp",
+        "year": 2022,
+        "color": "Black",
+        "power": "585 hp",
+        "seats": 5,
+        "category": "suv",
+        "model": "G63",
+        "pricePerDay": "2500 AED",
+        "vat": 5,
+        "otherImages": [
+            "/models/mercedes-benz-g63-01.webp",
+            "/models/mercedes-benz-g63-01.webp",
+            "/models/mercedes-benz-g63-01.webp"
+        ]
+    },
+    {
+        "name": "Chevrolet Corvette Stingray V8",
+        "slug": "chevrolet_corvette_stingray_v8",
+        "brandName": "Chevrolet",
+        "imageUrl": "/models/chevrolet-corvette-stingray-v8-01.webp",
+        "year": 2023,
+        "color": "Green",
+        "power": "495 hp",
+        "seats": 2,
+        "category": "sportive",
+        "model": "Corvette Stingray V8",
+        "pricePerDay": "3000 AED",
+        "vat": 5,
+        "otherImages": [
+            "/models/chevrolet-corvette-stingray-v8-01.webp",
+            "/models/chevrolet-corvette-stingray-v8-01.webp",
+            "/models/chevrolet-corvette-stingray-v8-01.webp"
+        ]
+    },
+    {
+        "name": "Cadillac Escalade",
+        "slug": "cadillac-escalade",
+        "brandName": "Cadillac",
+        "imageUrl": "/models/cadillac-escalade-01.webp",
+        "year": 2024,
+        "color": "Black",
+        "power": "420 hp",
+        "seats": 7,
+        "category": "suv",
+        "model": "Escalade",
+        "pricePerDay": "3500 AED",
+        "vat": 5,
+        "otherImages": [
+            "/models/cadillac-escalade-01.webp",
+            "/models/cadillac-escalade-01.webp",
+            "/models/cadillac-escalade-01.webp"
+        ]
+    },
+    {
+        "name": "Range Rover Velar",
+        "slug": "range_rover_velar",
+        "brandName": "Range Rover",
+        "imageUrl": "/models/range-rover-velar-01.webp",
+        "year": 2024,
+        "color": "Black",
+        "power": "404 hp",
+        "seats": 5,
+        "category": "suv",
+        "model": "Velar",
+        "pricePerDay": "2800 AED",
+        "vat": 5,
+        "otherImages": [
+            "/models/range-rover-velar-01.webp",
+            "/models/range-rover-velar-01.webp",
+            "/models/range-rover-velar-01.webp"
+        ]
+    },
+    {
+        "name": "Lamborghini Huracan Tecnica",
+        "slug": "lamborghini_hurcan_tecnica",
+        "brandName": "Lamborghini",
+        "imageUrl": "/models/lamborghini-huracan-tecnica-01.webp",
+        "year": 2024,
+        "color": "Yellow",
+        "power": "640 hp",
+        "seats": 2,
+        "category": "sportive",
+        "model": "Huracan Tecnica",
+        "pricePerDay": "4000 AED",
+        "vat": 5,
+        "otherImages": [
+            "/models/lamborghini-huracan-tecnica-01.webp",
+            "/models/lamborghini-huracan-tecnica-01.webp",
+            "/models/lamborghini-huracan-tecnica-01.webp"
+        ]
+    },
+    {
+        "name": "Mercedes-Benz GLE 53",
+        "slug": "mercedes_benz_gle_52",
+        "brandName": "Mercedes-Benz",
+        "imageUrl": "/models/mercedes-benz-gle-53-grey-2024-1.webp",
+        "year": 2024,
+        "color": "Grey",
+        "power": "429 hp",
+        "seats": 5,
+        "category": "suv",
+        "model": "GLE 53",
+        "pricePerDay": "2000 AED",
+        "vat": 5,
+        "otherImages": [
+            "/models/mercedes-benz-gle-53-grey-2024-1.webp",
+            "/models/mercedes-benz-gle-53-grey-2024-1.webp",
+            "/models/mercedes-benz-gle-53-grey-2024-1.webp"
+        ]
+    },
+    {
+        "name": "Mercedes-Benz G63",
+        "slug": "mercedes_benz_g63",
+        "brandName": "Mercedes-Benz",
+        "imageUrl": "/models/mercedes-benz-g63-01.webp",
+        "year": 2022,
+        "color": "Black",
+        "power": "585 hp",
+        "seats": 5,
+        "category": "suv",
+        "model": "G63",
+        "pricePerDay": "2500 AED",
+        "vat": 5,
+        "otherImages": [
+            "/models/mercedes-benz-g63-01.webp",
+            "/models/mercedes-benz-g63-01.webp",
+            "/models/mercedes-benz-g63-01.webp"
+        ]
+    },
+    {
+        "name": "Chevrolet Corvette Stingray V8",
+        "slug": "chevrolet_corvette_stingray_v8",
+        "brandName": "Chevrolet",
+        "imageUrl": "/models/chevrolet-corvette-stingray-v8-01.webp",
+        "year": 2023,
+        "color": "Green",
+        "power": "495 hp",
+        "seats": 2,
+        "category": "sportive",
+        "model": "Corvette Stingray V8",
+        "pricePerDay": "3000 AED",
+        "vat": 5,
+        "otherImages": [
+            "/models/chevrolet-corvette-stingray-v8-01.webp",
+            "/models/chevrolet-corvette-stingray-v8-01.webp",
+            "/models/chevrolet-corvette-stingray-v8-01.webp"
+        ]
+    },
+    {
+        "name": "Cadillac Escalade",
+        "slug": "cadillac-escalade",
+        "brandName": "Cadillac",
+        "imageUrl": "/models/cadillac-escalade-01.webp",
+        "year": 2024,
+        "color": "Black",
+        "power": "420 hp",
+        "seats": 7,
+        "category": "suv",
+        "model": "Escalade",
+        "pricePerDay": "3500 AED",
+        "vat": 5,
+        "otherImages": [
+            "/models/cadillac-escalade-01.webp",
+            "/models/cadillac-escalade-01.webp",
+            "/models/cadillac-escalade-01.webp"
+        ]
+    },
+    {
+        "name": "Range Rover Velar",
+        "slug": "range_rover_velar",
+        "brandName": "Range Rover",
+        "imageUrl": "/models/range-rover-velar-01.webp",
+        "year": 2024,
+        "color": "Black",
+        "power": "404 hp",
+        "seats": 5,
+        "category": "suv",
+        "model": "Velar",
+        "pricePerDay": "2800 AED",
+        "vat": 5,
+        "otherImages": [
+            "/models/range-rover-velar-01.webp",
+            "/models/range-rover-velar-01.webp",
+            "/models/range-rover-velar-01.webp"
+        ]
+    },
+    {
+        "name": "Lamborghini Huracan Tecnica",
+        "slug": "lamborghini_hurcan_tecnica",
+        "brandName": "Lamborghini",
+        "imageUrl": "/models/lamborghini-huracan-tecnica-01.webp",
+        "year": 2024,
+        "color": "Yellow",
+        "power": "640 hp",
+        "seats": 2,
+        "category": "sportive",
+        "model": "Huracan Tecnica",
+        "pricePerDay": "4000 AED",
+        "vat": 5,
+        "otherImages": [
+            "/models/lamborghini-huracan-tecnica-01.webp",
+            "/models/lamborghini-huracan-tecnica-01.webp",
+            "/models/lamborghini-huracan-tecnica-01.webp"
+        ]
+    },
+    {
+        "name": "Mercedes-Benz GLE 53",
+        "slug": "mercedes_benz_gle_52",
+        "brandName": "Mercedes-Benz",
+        "imageUrl": "/models/mercedes-benz-gle-53-grey-2024-1.webp",
+        "year": 2024,
+        "color": "Grey",
+        "power": "429 hp",
+        "seats": 5,
+        "category": "suv",
+        "model": "GLE 53",
+        "pricePerDay": "2000 AED",
+        "vat": 5,
+        "otherImages": [
+            "/models/mercedes-benz-gle-53-grey-2024-1.webp",
+            "/models/mercedes-benz-gle-53-grey-2024-1.webp",
+            "/models/mercedes-benz-gle-53-grey-2024-1.webp"
+        ]
+    },
+    {
+        "name": "Mercedes-Benz G63",
+        "slug": "mercedes_benz_g63",
+        "brandName": "Mercedes-Benz",
+        "imageUrl": "/models/mercedes-benz-g63-01.webp",
+        "year": 2022,
+        "color": "Black",
+        "power": "585 hp",
+        "seats": 5,
+        "category": "suv",
+        "model": "G63",
+        "pricePerDay": "2500 AED",
+        "vat": 5,
+        "otherImages": [
+            "/models/mercedes-benz-g63-01.webp",
+            "/models/mercedes-benz-g63-01.webp",
+            "/models/mercedes-benz-g63-01.webp"
+        ]
+    },
+    {
+        "name": "Chevrolet Corvette Stingray V8",
+        "slug": "chevrolet_corvette_stingray_v8",
+        "brandName": "Chevrolet",
+        "imageUrl": "/models/chevrolet-corvette-stingray-v8-01.webp",
+        "year": 2023,
+        "color": "Green",
+        "power": "495 hp",
+        "seats": 2,
+        "category": "sportive",
+        "model": "Corvette Stingray V8",
+        "pricePerDay": "3000 AED",
+        "vat": 5,
+        "otherImages": [
+            "/models/chevrolet-corvette-stingray-v8-01.webp",
+            "/models/chevrolet-corvette-stingray-v8-01.webp",
+            "/models/chevrolet-corvette-stingray-v8-01.webp"
+        ]
+    },
+    {
+        "name": "Cadillac Escalade",
+        "slug": "cadillac-escalade",
+        "brandName": "Cadillac",
+        "imageUrl": "/models/cadillac-escalade-01.webp",
+        "year": 2024,
+        "color": "Black",
+        "power": "420 hp",
+        "seats": 7,
+        "category": "suv",
+        "model": "Escalade",
+        "pricePerDay": "3500 AED",
+        "vat": 5,
+        "otherImages": [
+            "/models/cadillac-escalade-01.webp",
+            "/models/cadillac-escalade-01.webp",
+            "/models/cadillac-escalade-01.webp"
+        ]
+    },
+    {
+        "name": "Range Rover Velar",
+        "slug": "range_rover_velar",
+        "brandName": "Range Rover",
+        "imageUrl": "/models/range-rover-velar-01.webp",
+        "year": 2024,
+        "color": "Black",
+        "power": "404 hp",
+        "seats": 5,
+        "category": "suv",
+        "model": "Velar",
+        "pricePerDay": "2800 AED",
+        "vat": 5,
+        "otherImages": [
+            "/models/range-rover-velar-01.webp",
+            "/models/range-rover-velar-01.webp",
+            "/models/range-rover-velar-01.webp"
+        ]
+    },
+    {
+        "name": "Lamborghini Huracan Tecnica",
+        "slug": "lamborghini_hurcan_tecnica",
+        "brandName": "Lamborghini",
+        "imageUrl": "/models/lamborghini-huracan-tecnica-01.webp",
+        "year": 2024,
+        "color": "Yellow",
+        "power": "640 hp",
+        "seats": 2,
+        "category": "sportive",
+        "model": "Huracan Tecnica",
+        "pricePerDay": "4000 AED",
+        "vat": 5,
+        "otherImages": [
+            "/models/lamborghini-huracan-tecnica-01.webp",
+            "/models/lamborghini-huracan-tecnica-01.webp",
+            "/models/lamborghini-huracan-tecnica-01.webp"
+        ]
+    },
+    {
+        "name": "Mercedes-Benz GLE 53",
+        "slug": "mercedes_benz_gle_52",
+        "brandName": "Mercedes-Benz",
+        "imageUrl": "/models/mercedes-benz-gle-53-grey-2024-1.webp",
+        "year": 2024,
+        "color": "Grey",
+        "power": "429 hp",
+        "seats": 5,
+        "category": "suv",
+        "model": "GLE 53",
+        "pricePerDay": "2000 AED",
+        "vat": 5,
+        "otherImages": [
+            "/models/mercedes-benz-gle-53-grey-2024-1.webp",
+            "/models/mercedes-benz-gle-53-grey-2024-1.webp",
+            "/models/mercedes-benz-gle-53-grey-2024-1.webp"
+        ]
+    },
+    {
+        "name": "Mercedes-Benz G63",
+        "slug": "mercedes_benz_g63",
+        "brandName": "Mercedes-Benz",
+        "imageUrl": "/models/mercedes-benz-g63-01.webp",
+        "year": 2022,
+        "color": "Black",
+        "power": "585 hp",
+        "seats": 5,
+        "category": "suv",
+        "model": "G63",
+        "pricePerDay": "2500 AED",
+        "vat": 5,
+        "otherImages": [
+            "/models/mercedes-benz-g63-01.webp",
+            "/models/mercedes-benz-g63-01.webp",
+            "/models/mercedes-benz-g63-01.webp"
+        ]
+    },
+    {
+        "name": "Chevrolet Corvette Stingray V8",
+        "slug": "chevrolet_corvette_stingray_v8",
+        "brandName": "Chevrolet",
+        "imageUrl": "/models/chevrolet-corvette-stingray-v8-01.webp",
+        "year": 2023,
+        "color": "Green",
+        "power": "495 hp",
+        "seats": 2,
+        "category": "sportive",
+        "model": "Corvette Stingray V8",
+        "pricePerDay": "3000 AED",
+        "vat": 5,
+        "otherImages": [
+            "/models/chevrolet-corvette-stingray-v8-01.webp",
+            "/models/chevrolet-corvette-stingray-v8-01.webp",
+            "/models/chevrolet-corvette-stingray-v8-01.webp"
+        ]
+    },
+    {
+        "name": "Cadillac Escalade",
+        "slug": "cadillac-escalade",
+        "brandName": "Cadillac",
+        "imageUrl": "/models/cadillac-escalade-01.webp",
+        "year": 2024,
+        "color": "Black",
+        "power": "420 hp",
+        "seats": 7,
+        "category": "suv",
+        "model": "Escalade",
+        "pricePerDay": "3500 AED",
+        "vat": 5,
+        "otherImages": [
+            "/models/cadillac-escalade-01.webp",
+            "/models/cadillac-escalade-01.webp",
+            "/models/cadillac-escalade-01.webp"
+        ]
+    },
+    {
+        "name": "Range Rover Velar",
+        "slug": "range_rover_velar",
+        "brandName": "Range Rover",
+        "imageUrl": "/models/range-rover-velar-01.webp",
+        "year": 2024,
+        "color": "Black",
+        "power": "404 hp",
+        "seats": 5,
+        "category": "suv",
+        "model": "Velar",
+        "pricePerDay": "2800 AED",
+        "vat": 5,
+        "otherImages": [
+            "/models/range-rover-velar-01.webp",
+            "/models/range-rover-velar-01.webp",
+            "/models/range-rover-velar-01.webp"
+        ]
+    },
+    {
+        "name": "Lamborghini Huracan Tecnica",
+        "slug": "lamborghini_hurcan_tecnica",
+        "brandName": "Lamborghini",
+        "imageUrl": "/models/lamborghini-huracan-tecnica-01.webp",
+        "year": 2024,
+        "color": "Yellow",
+        "power": "640 hp",
+        "seats": 2,
+        "category": "sportive",
+        "model": "Huracan Tecnica",
+        "pricePerDay": "4000 AED",
+        "vat": 5,
+        "otherImages": [
+            "/models/lamborghini-huracan-tecnica-01.webp",
+            "/models/lamborghini-huracan-tecnica-01.webp",
+            "/models/lamborghini-huracan-tecnica-01.webp"
+        ]
+    },
+    {
+        "name": "Mercedes-Benz GLE 53",
+        "slug": "mercedes_benz_gle_52",
+        "brandName": "Mercedes-Benz",
+        "imageUrl": "/models/mercedes-benz-gle-53-grey-2024-1.webp",
+        "year": 2024,
+        "color": "Grey",
+        "power": "429 hp",
+        "seats": 5,
+        "category": "suv",
+        "model": "GLE 53",
+        "pricePerDay": "2000 AED",
+        "vat": 5,
+        "otherImages": [
+            "/models/mercedes-benz-gle-53-grey-2024-1.webp",
+            "/models/mercedes-benz-gle-53-grey-2024-1.webp",
+            "/models/mercedes-benz-gle-53-grey-2024-1.webp"
+        ]
+    },
+    {
+        "name": "Mercedes-Benz G63",
+        "slug": "mercedes_benz_g63",
+        "brandName": "Mercedes-Benz",
+        "imageUrl": "/models/mercedes-benz-g63-01.webp",
+        "year": 2022,
+        "color": "Black",
+        "power": "585 hp",
+        "seats": 5,
+        "category": "suv",
+        "model": "G63",
+        "pricePerDay": "2500 AED",
+        "vat": 5,
+        "otherImages": [
+            "/models/mercedes-benz-g63-01.webp",
+            "/models/mercedes-benz-g63-01.webp",
+            "/models/mercedes-benz-g63-01.webp"
+        ]
+    },
+    {
+        "name": "Chevrolet Corvette Stingray V8",
+        "slug": "chevrolet_corvette_stingray_v8",
+        "brandName": "Chevrolet",
+        "imageUrl": "/models/chevrolet-corvette-stingray-v8-01.webp",
+        "year": 2023,
+        "color": "Green",
+        "power": "495 hp",
+        "seats": 2,
+        "category": "sportive",
+        "model": "Corvette Stingray V8",
+        "pricePerDay": "3000 AED",
+        "vat": 5,
+        "otherImages": [
+            "/models/chevrolet-corvette-stingray-v8-01.webp",
+            "/models/chevrolet-corvette-stingray-v8-01.webp",
+            "/models/chevrolet-corvette-stingray-v8-01.webp"
+        ]
+    },
+    {
+        "name": "Cadillac Escalade",
+        "slug": "cadillac-escalade",
+        "brandName": "Cadillac",
+        "imageUrl": "/models/cadillac-escalade-01.webp",
+        "year": 2024,
+        "color": "Black",
+        "power": "420 hp",
+        "seats": 7,
+        "category": "suv",
+        "model": "Escalade",
+        "pricePerDay": "3500 AED",
+        "vat": 5,
+        "otherImages": [
+            "/models/cadillac-escalade-01.webp",
+            "/models/cadillac-escalade-01.webp",
+            "/models/cadillac-escalade-01.webp"
+        ]
+    },
+    {
+        "name": "Range Rover Velar",
+        "slug": "range_rover_velar",
+        "brandName": "Range Rover",
+        "imageUrl": "/models/range-rover-velar-01.webp",
+        "year": 2024,
+        "color": "Black",
+        "power": "404 hp",
+        "seats": 5,
+        "category": "suv",
+        "model": "Velar",
+        "pricePerDay": "2800 AED",
+        "vat": 5,
+        "otherImages": [
+            "/models/range-rover-velar-01.webp",
+            "/models/range-rover-velar-01.webp",
+            "/models/range-rover-velar-01.webp"
+        ]
+    },
+    {
+        "name": "Lamborghini Huracan Tecnica",
+        "slug": "lamborghini_hurcan_tecnica",
+        "brandName": "Lamborghini",
+        "imageUrl": "/models/lamborghini-huracan-tecnica-01.webp",
+        "year": 2024,
+        "color": "Yellow",
+        "power": "640 hp",
+        "seats": 2,
+        "category": "sportive",
+        "model": "Huracan Tecnica",
+        "pricePerDay": "4000 AED",
+        "vat": 5,
+        "otherImages": [
+            "/models/lamborghini-huracan-tecnica-01.webp",
+            "/models/lamborghini-huracan-tecnica-01.webp",
+            "/models/lamborghini-huracan-tecnica-01.webp"
+        ]
+    },
+    {
+        "name": "Mercedes-Benz GLE 53",
+        "slug": "mercedes_benz_gle_52",
+        "brandName": "Mercedes-Benz",
+        "imageUrl": "/models/mercedes-benz-gle-53-grey-2024-1.webp",
+        "year": 2024,
+        "color": "Grey",
+        "power": "429 hp",
+        "seats": 5,
+        "category": "suv",
+        "model": "GLE 53",
+        "pricePerDay": "2000 AED",
+        "vat": 5,
+        "otherImages": [
+            "/models/mercedes-benz-gle-53-grey-2024-1.webp",
+            "/models/mercedes-benz-gle-53-grey-2024-1.webp",
+            "/models/mercedes-benz-gle-53-grey-2024-1.webp"
+        ]
+    },
+    {
+        "name": "Mercedes-Benz G63",
+        "slug": "mercedes_benz_g63",
+        "brandName": "Mercedes-Benz",
+        "imageUrl": "/models/mercedes-benz-g63-01.webp",
+        "year": 2022,
+        "color": "Black",
+        "power": "585 hp",
+        "seats": 5,
+        "category": "suv",
+        "model": "G63",
+        "pricePerDay": "2500 AED",
+        "vat": 5,
+        "otherImages": [
+            "/models/mercedes-benz-g63-01.webp",
+            "/models/mercedes-benz-g63-01.webp",
+            "/models/mercedes-benz-g63-01.webp"
+        ]
+    },
+    {
+        "name": "Chevrolet Corvette Stingray V8",
+        "slug": "chevrolet_corvette_stingray_v8",
+        "brandName": "Chevrolet",
+        "imageUrl": "/models/chevrolet-corvette-stingray-v8-01.webp",
+        "year": 2023,
+        "color": "Green",
+        "power": "495 hp",
+        "seats": 2,
+        "category": "sportive",
+        "model": "Corvette Stingray V8",
+        "pricePerDay": "3000 AED",
+        "vat": 5,
+        "otherImages": [
+            "/models/chevrolet-corvette-stingray-v8-01.webp",
+            "/models/chevrolet-corvette-stingray-v8-01.webp",
+            "/models/chevrolet-corvette-stingray-v8-01.webp"
+        ]
+    },
+    {
+        "name": "Cadillac Escalade",
+        "slug": "cadillac-escalade",
+        "brandName": "Cadillac",
+        "imageUrl": "/models/cadillac-escalade-01.webp",
+        "year": 2024,
+        "color": "Black",
+        "power": "420 hp",
+        "seats": 7,
+        "category": "suv",
+        "model": "Escalade",
+        "pricePerDay": "3500 AED",
+        "vat": 5,
+        "otherImages": [
+            "/models/cadillac-escalade-01.webp",
+            "/models/cadillac-escalade-01.webp",
+            "/models/cadillac-escalade-01.webp"
+        ]
+    },
+    {
+        "name": "Range Rover Velar",
+        "slug": "range_rover_velar",
+        "brandName": "Range Rover",
+        "imageUrl": "/models/range-rover-velar-01.webp",
+        "year": 2024,
+        "color": "Black",
+        "power": "404 hp",
+        "seats": 5,
+        "category": "suv",
+        "model": "Velar",
+        "pricePerDay": "2800 AED",
+        "vat": 5,
+        "otherImages": [
+            "/models/range-rover-velar-01.webp",
+            "/models/range-rover-velar-01.webp",
+            "/models/range-rover-velar-01.webp"
+        ]
+    }
+]
