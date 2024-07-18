@@ -17,7 +17,7 @@ export default function BrandsList({ }: Props) {
     }
 
     return (
-        <ul className='grid lg:grid-cols-7 md:grid-cols-5 sm:grid-cols-3 grid-cols-1 gap-4 mt-6'>
+        <ul className='grid grid-cols-auto-fill-132 lg:grid-cols-7 md:grid-cols-5 gap-4 mt-6 place-items-center'>
             {
                 brandData.map((brand, ind) => (
                     <li key={brand.name}>

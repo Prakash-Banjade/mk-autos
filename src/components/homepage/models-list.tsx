@@ -17,7 +17,7 @@ export default function ModelsList({ }: Props) {
     const { models } = useModelContext()
 
     return (
-        <section className='mt-4 grid md:grid-cols-3 sm:grid-cols-2 grid-cols-1 gap-8'>
+        <section className='mt-4 grid md:grid-cols-3 sm:grid-cols-2 grid-cols-1 gap-8 place-items-center'>
             {
                 models.map((model, ind) => (
                     <motion.div
@@ -33,7 +33,7 @@ export default function ModelsList({ }: Props) {
                         exit={{ opacity: 0, y: 40 }}
                         key={model.name + ind}
                     >
-                        <Card className='overflow-hidden'>
+                        <Card className='overflow-hidden max-w-[316px]'>
                             <Link href={`/${model.slug}`}>
 
                                 <CardHeader className='p-0'>

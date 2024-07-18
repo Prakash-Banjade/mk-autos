@@ -18,6 +18,10 @@ const config = {
       },
     },
     extend: {
+      gridTemplateColumns: {
+        'auto-fill-132': 'repeat(auto-fill, minmax(132px, 1fr))',
+        'auto-fit-132': 'repeat(auto-fit, minmax(132px, 1fr))',
+      },
       fontFamily: {
         'hubot': ['HubotSans', 'sans-serif'],  // after you font, add some fonts separated by commas to handle fallback.
       },

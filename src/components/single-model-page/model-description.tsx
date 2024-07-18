@@ -157,7 +157,8 @@ export default function ModelDescription({ model }: Props) {
                         </CardHeader>
                         <CardContent className='px-0 pb-0 lg:pb-6 lg:px-6'>
                             <p className='font-medium text-[#697586]'>
-                                Reserving a luxury car with MKAutos is straightforward and convenient. Simply explore our impressive range of high-end vehicles on our platform. Once you've selected your ideal ride, reach out to our specialists via WhatsApp for a personalized quote and assistance with your booking. Our streamlined process ensures a hassle-free experience, with the option for delivery added for your convenience.                        </p>
+                                Reserving a luxury car with MKAutos is straightforward and convenient. Simply explore our impressive range of high-end vehicles on our platform. Once you&apos;ve selected your ideal ride, reach out to our specialists via WhatsApp for a personalized quote and assistance with your booking. Our streamlined process ensures a hassle-free experience, with the option for delivery added for your convenience.
+                            </p>
                         </CardContent>
                     </Card>
                     <Card className='shadow-none lg:border-solid border-none rounded-lg'>
@@ -168,7 +169,8 @@ export default function ModelDescription({ model }: Props) {
                         </CardHeader>
                         <CardContent className='px-0 pb-0 lg:pb-6 lg:px-6'>
                             <p className='font-medium text-[#697586]'>
-                                Renting a luxury car with MKAutos in Dubai requires specific documentation based on your residency status and origin. UAE residents will need to provide a copy of their passport, residential visa, Emirates ID, and a valid UAE driving license. For tourists, documentation includes a passport, visa with entry stamp, and a valid driving license from their home country. Our specialists are here to guide you through this process.                        </p>
+                                Renting a luxury car with MKAutos in Dubai requires specific documentation based on your residency status and origin. UAE residents will need to provide a copy of their passport, residential visa, Emirates ID, and a valid UAE driving license. For tourists, documentation includes a passport, visa with entry stamp, and a valid driving license from their home country. Our specialists are here to guide you through this process.
+                            </p>
                         </CardContent>
                     </Card>
                 </div>
