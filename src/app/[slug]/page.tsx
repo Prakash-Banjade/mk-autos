@@ -11,6 +11,21 @@ type Props = {
     }
 }
 
+export async function generateMetadata({ params }: Props) {
+    const model = modelsData.find(model => model.slug === params.slug)
+
+    return {
+        title: 'MKAutos - ' + model?.name,
+    }
+}
+
+export async function generateStaticParams() {
+    return modelsData.map((model) => ({
+        slug: model.slug,
+    }))
+}
+
+
 export default function SingleModelPage({ params: { slug } }: Props) {
 
     const model = modelsData.find(model => model.slug === slug)
