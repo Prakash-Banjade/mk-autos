@@ -33,7 +33,7 @@ export default function NavBar({ className }: Props) {
                             <span>Call us</span>
                         </a>
                     </Button>
-                    <Button className='py-9 px-8 w-[160px] text-base font-semibold rounded-none bg-[#121926] hover:bg-[#121926] flex items-center gap-3'>
+                    <Button className='py-9 px-8 w-[160px] text-base font-semibold rounded-none bg-[#121926] hover:bg-[#121926] flex items-center gap-3' asChild>
                         <a href={'https://api.whatsapp.com/send?phone=+971524574831&text=Hi%21+I%27m+interested+in+renting+a+luxury+car+with+MKAutos'} className='flex items-center gap-3'>
                             <span className='text-2xl'><BsWhatsapp /></span>
                             <span>Chat Now</span>
